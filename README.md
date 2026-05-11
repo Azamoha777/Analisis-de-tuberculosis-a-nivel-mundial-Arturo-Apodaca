@@ -196,3 +196,7 @@ Análisis Exploratorio de Datos
 - WHO Tuberculosis Dataset
 - Naciones Unidas
 - Datos poblacionales utilizados para cálculo de incidencia
+
+- https://app.powerbi.com/groups/me/reports/ea2c8f85-e2a6-4f45-bdbc-23acdfc269bd?ctid=e20c85ea-e344-4e55-aa34-5729d5b38c14&pbi_source=linkShare
+
+- https://app.powerbi.com/links/2H9LS3h_fQ?ctid=e20c85ea-e344-4e55-aa34-5729d5b38c14&pbi_source=linkShare
