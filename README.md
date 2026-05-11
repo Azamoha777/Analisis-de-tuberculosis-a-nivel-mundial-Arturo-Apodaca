@@ -197,6 +197,6 @@ Análisis Exploratorio de Datos
 - Naciones Unidas
 - Datos poblacionales utilizados para cálculo de incidencia
 
-- https://app.powerbi.com/groups/me/reports/ea2c8f85-e2a6-4f45-bdbc-23acdfc269bd?ctid=e20c85ea-e344-4e55-aa34-5729d5b38c14&pbi_source=linkShare
+[Ver reporte interactivo en Power BI](https://app.powerbi.com/links/u7m7tLTvDX?ctid=e20c85ea-e344-4e55-aa34-5729d5b38c14&pbi_source=linkShare)
 
-- https://app.powerbi.com/links/2H9LS3h_fQ?ctid=e20c85ea-e344-4e55-aa34-5729d5b38c14&pbi_source=linkShare
+[Ver reporte interactivo en Power BI](https://app.powerbi.com/links/2H9LS3h_fQ?ctid=e20c85ea-e344-4e55-aa34-5729d5b38c14&pbi_source=linkShare)
